@@ -36,3 +36,7 @@ function peak(arr) {
   return -1;
 }
 ```
+## Languages:
+* Georgian - Mother language
+* English - B2
+* Russian - A2
